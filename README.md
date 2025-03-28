@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development 
 - 🌱 I’m currently learning Dsa
 - 💞️ I’m looking to collaboration 
-- 📫 i am in Cse-11 section . 
+- 📫 Loading..... 
 
 <!---
 Sahibibn/Sahibibn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
